@@ -1,0 +1,8 @@
+Commands to run mode js file :
+node js file name for ubunto
+
+npm init
+
+npm i express
+
+node index.jss
