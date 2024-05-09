@@ -1,0 +1,16 @@
+body{
+    font: 100 ;
+}
+
+header{
+    background: linear-gradient(black );
+}
+
+.navbar-brand,
+.test-primary{
+    color:black;
+}
+
+.nav-link{
+    background-color: brown;
+}
